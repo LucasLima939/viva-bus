@@ -1,0 +1,33 @@
+.logo {
+    background-image: url(../assets/logo-viva-bus.png);
+    height: 89px;
+    width: 89px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+}
+
+.nav-item {
+    color: #3D3EDF;
+}
+
+.borderless .list-group-item {
+    border: none;
+}
+
+.nav-bar {
+    position: absolute;
+    align-items: center;
+    padding-inline: 40px;
+    display: -webkit-box;
+    right: 20px
+}
+
+.nav-social-btn {
+    background-color: #27ae60;
+    text-align: center;
+    color: white;
+    width: 184px;
+    height: 35px;
+}
