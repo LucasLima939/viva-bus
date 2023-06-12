@@ -1,0 +1,40 @@
+span {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 48px;
+    color: #000000;
+    padding-bottom: 40px;
+}
+
+h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 96px;
+    line-height: 90px;
+    color: #2F80ED;
+    padding-bottom: 40px;
+}
+
+.main-image {
+    background-image: url(../assets/img8.png);
+    padding-bottom: 30%;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.read-btn {
+    padding-top: 10px;
+    font-size: 18px;
+    color: #219653;
+    padding-right: 10px;
+    text-decoration: none;
+    border: none;
+    display: block;
+    text-align: center;
+    border: none;
+}

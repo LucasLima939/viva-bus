@@ -1,0 +1,45 @@
+
+
+.content-row {
+    padding-inline: 80px;
+    height: 500px;
+    background-color: #F2F2F2;
+}
+
+
+.img2 {
+    background-image: url(../assets/img2.png);
+}
+
+.img3 {
+    background-image: url(../assets/img3.png);
+}
+
+.img4 {
+    background-image: url(../assets/img4.png);
+}
+
+.content-image {
+    padding-bottom: 50%;
+    width: 90%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.read-btn {
+    padding-top: 10px;
+    font-size: 18px;
+    color: #219653;
+    padding-right: 10px;
+    text-decoration: none;
+    border: none;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
