@@ -1,3 +1,11 @@
+a {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 48px;
+}
+
 span {
     font-family: 'Roboto';
     font-style: normal;
@@ -17,6 +25,16 @@ h1 {
     padding-bottom: 40px;
 }
 
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 46px;
+    line-height: 40px;
+    color: #2F80ED;
+    padding-bottom: 40px;
+}
+
 .content-iframe {
     height: 600px;
     width: 100%;
@@ -28,7 +46,7 @@ h1 {
 }
 
 .main-image {
-    background-image: url(../assets/img8.png);
+    background-image: url(../assets/img11.png);
     padding-bottom: 30%;
     width: 90%;
     background-repeat: no-repeat;
@@ -71,7 +89,7 @@ h1 {
     }
 
     .main-image {
-        background-image: url(../assets/img8.png);
+        background-image: url(../assets/img11.png);
         padding-bottom: 80%;
         width: 90%;
         background-repeat: no-repeat;
