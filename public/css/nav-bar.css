@@ -61,7 +61,7 @@
     .nav-bar {
         align-items: center;
         padding-inline: 40px;
-        display: -webkit-box;
+        display: contents;
         right: 20px;
         position: relative;
         margin-top: 0px!important; 
