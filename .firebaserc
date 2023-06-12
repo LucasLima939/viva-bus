@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "digital-idea-bf3fe"
+  },
+  "targets": {
+    "digital-idea-bf3fe": {
+      "hosting": {
+        "app": [
+          "vivabus"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
