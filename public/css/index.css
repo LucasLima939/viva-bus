@@ -96,6 +96,11 @@ span {
         'opsz' 48
 }
 
+.content-iframe {
+    height: 600px;
+    width: 100%;
+}
+
 .nav-bar-iframe {
     height: 90px;
     width: 100%;
@@ -106,4 +111,24 @@ span {
         height: 180px;
         width: 100%;
     }
+
+    .content-iframe {
+        height: 900px;
+        width: 100%;
+    }
+    .header-content {
+        height: 80em;
+        width: 100%;
+        padding-inline: 80px;
+    }
+
+    .main-image {
+        background-image: url(../assets/img1.png);
+        height: 25em;
+        width: 30em;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
 }
