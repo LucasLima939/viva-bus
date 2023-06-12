@@ -9,7 +9,7 @@
 }
 
 h1 {
-    font-family: 'Roboto';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: 600;
     font-size: 64px;
@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Roboto';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -30,7 +30,7 @@ h2 {
 }
 
 span {
-    font-family: 'Noto Sans JP';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -46,7 +46,7 @@ span {
 }
 
 .article-title {
-    font-family: 'Noto Sans JP';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: 500;
     font-size: 32px;
