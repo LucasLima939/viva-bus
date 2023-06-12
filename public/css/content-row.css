@@ -1,3 +1,7 @@
+h2 {
+    color: #2F80ED;
+}
+
 .content-row {
     padding-inline: 80px;
     height: 600px;
@@ -47,5 +51,5 @@
         padding-inline: 80px;
         height: 900px;
         background-color: #F2F2F2;
-    }    
+    }
 }
