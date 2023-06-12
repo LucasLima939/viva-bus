@@ -18,6 +18,16 @@ h1 {
     padding-bottom: 40px;
 }
 
+.content-iframe {
+    height: 600px;
+    width: 100%;
+}
+
+.nav-bar-iframe {
+    height: 90px;
+    width: 100%;
+}
+
 .main-image {
     background-image: url(../assets/img8.png);
     padding-bottom: 30%;
@@ -38,3 +48,35 @@ h1 {
     text-align: center;
     border: none;
 }
+
+@media only screen and (max-width: 500px) {
+    h1 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 40px;
+        text-align: center;
+        color: #2F80ED;
+        text-align: start;
+    }
+
+    .nav-bar-iframe {
+        height: 180px;
+        width: 100%;
+    }
+
+    .content-iframe {
+        height: 900px;
+        width: 100%;
+    }
+
+    .main-image {
+        background-image: url(../assets/img8.png);
+        padding-bottom: 80%;
+        width: 90%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+ }

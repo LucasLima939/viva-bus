@@ -21,7 +21,7 @@
     align-items: center;
     padding-inline: 40px;
     display: -webkit-box;
-    right: 20px
+    right: 20px;
 }
 
 .nav-social-btn {
@@ -30,4 +30,63 @@
     color: white;
     width: 184px;
     height: 35px;
+    visibility: visible;
+}
+
+.nav-component {
+    text-align: -webkit-center;
+}
+
+.nav-social-btn-mobile {
+    background-color: #27ae60;
+    text-align: center;
+    color: white;
+    width: 184px;
+    height: 35px;
+    visibility: hidden;
+}  
+
+
+@media only screen and (max-width: 500px) {
+    .logo {
+        background-image: url(../assets/logo-viva-bus.png);
+        height: 89px;
+        width: 89px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        position: relative;
+    }
+    
+    .nav-bar {
+        align-items: center;
+        padding-inline: 40px;
+        display: -webkit-box;
+        right: 20px;
+        position: relative;
+        margin-top: 0px!important; 
+    }
+
+    .nav-social-btn {
+        background-color: #27ae60;
+        text-align: center;
+        color: white;
+        width: 184px;
+        height: 35px;
+        visibility: hidden;
+    }
+
+    .nav-component {
+        text-align: -webkit-center;
+    }
+
+    .nav-social-btn-mobile {
+        background-color: #27ae60;
+        text-align: center;
+        color: white;
+        width: 184px;
+        height: 35px;
+        visibility: visible;
+    }    
+    
 }
